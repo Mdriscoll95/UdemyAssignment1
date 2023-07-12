@@ -1,0 +1,15 @@
+/Users/michaeldriscoll/Desktop/repos/UdemyAssignment1/UdemyAssignment1/bin/Debug/net7.0/UdemyAssignment1
+/Users/michaeldriscoll/Desktop/repos/UdemyAssignment1/UdemyAssignment1/bin/Debug/net7.0/UdemyAssignment1.deps.json
+/Users/michaeldriscoll/Desktop/repos/UdemyAssignment1/UdemyAssignment1/bin/Debug/net7.0/UdemyAssignment1.runtimeconfig.json
+/Users/michaeldriscoll/Desktop/repos/UdemyAssignment1/UdemyAssignment1/bin/Debug/net7.0/UdemyAssignment1.dll
+/Users/michaeldriscoll/Desktop/repos/UdemyAssignment1/UdemyAssignment1/bin/Debug/net7.0/UdemyAssignment1.pdb
+/Users/michaeldriscoll/Desktop/repos/UdemyAssignment1/UdemyAssignment1/obj/Debug/net7.0/UdemyAssignment1.csproj.AssemblyReference.cache
+/Users/michaeldriscoll/Desktop/repos/UdemyAssignment1/UdemyAssignment1/obj/Debug/net7.0/UdemyAssignment1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michaeldriscoll/Desktop/repos/UdemyAssignment1/UdemyAssignment1/obj/Debug/net7.0/UdemyAssignment1.AssemblyInfoInputs.cache
+/Users/michaeldriscoll/Desktop/repos/UdemyAssignment1/UdemyAssignment1/obj/Debug/net7.0/UdemyAssignment1.AssemblyInfo.cs
+/Users/michaeldriscoll/Desktop/repos/UdemyAssignment1/UdemyAssignment1/obj/Debug/net7.0/UdemyAssignment1.csproj.CoreCompileInputs.cache
+/Users/michaeldriscoll/Desktop/repos/UdemyAssignment1/UdemyAssignment1/obj/Debug/net7.0/UdemyAssignment1.dll
+/Users/michaeldriscoll/Desktop/repos/UdemyAssignment1/UdemyAssignment1/obj/Debug/net7.0/refint/UdemyAssignment1.dll
+/Users/michaeldriscoll/Desktop/repos/UdemyAssignment1/UdemyAssignment1/obj/Debug/net7.0/UdemyAssignment1.pdb
+/Users/michaeldriscoll/Desktop/repos/UdemyAssignment1/UdemyAssignment1/obj/Debug/net7.0/UdemyAssignment1.genruntimeconfig.cache
+/Users/michaeldriscoll/Desktop/repos/UdemyAssignment1/UdemyAssignment1/obj/Debug/net7.0/ref/UdemyAssignment1.dll
